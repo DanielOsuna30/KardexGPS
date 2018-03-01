@@ -12,9 +12,5 @@ namespace KardexGPS.Api.Models
             public string Username { get; set; }
             public string Password { get; set; }
         }
-        public class Admin
-        {
-            public string AdminName { get; set; }
-        }
     }
 }
